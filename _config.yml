@@ -3,11 +3,11 @@ title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/pixyll"
+url:         "http://findedeinniveau.github.io"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics:
 
 # Optional features
 animated:           false
