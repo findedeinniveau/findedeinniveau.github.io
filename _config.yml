@@ -1,7 +1,7 @@
 # Site settings
-title:       Pixyll
+title:       Finde dein Niveau
 email:       your_email@example.com
-author:      John Otander
+author:      findedeinniveau
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/pixyll"
 url:         "http://findedeinniveau.github.io"
