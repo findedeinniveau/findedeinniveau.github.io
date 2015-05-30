@@ -3,8 +3,8 @@ title:       Finde dein Niveau
 email:       your_email@example.com
 author:      findedeinniveau
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyll"
-url:         "http://findedeinniveau.github.io/"
+baseurl:     ""
+url:         "http://findedeinniveau.ch/"
 
 # Google analytics
 google_analytics:
