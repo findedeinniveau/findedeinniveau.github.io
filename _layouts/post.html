@@ -6,10 +6,7 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
-  
-  
-  {% assign m = page.date | date: "%-m" %}
+  <span class="post-meta">{{ {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januar
@@ -25,7 +22,10 @@ layout: default
   {% when '11' %}November
   {% when '12' %}Dezember
 {% endcase %}
-{{ page.date | date: "%Y" }}
+{{ page.date | date: "%Y" }} }}</span><br>
+  
+  
+ 
   
   
   {% if page.update_date %}
