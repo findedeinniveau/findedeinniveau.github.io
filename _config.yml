@@ -4,7 +4,7 @@ email:       kontakt@findedeinniveau.ch
 author:      Finde dein Niveau
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://findedeinniveau.ch"
+url:         "http://findedeinniveau.github.io"
 
 # Google analytics
 google_analytics:
